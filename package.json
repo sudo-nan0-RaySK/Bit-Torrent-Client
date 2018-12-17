@@ -1,0 +1,19 @@
+{
+  "name": "bit-torrent-client",
+  "version": "1.0.0",
+  "description": "A simple bit torrent client ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudo-nan0-RaySK/Bit-Torrent-Client.git"
+  },
+  "author": "Ray S. Kan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudo-nan0-RaySK/Bit-Torrent-Client/issues"
+  },
+  "homepage": "https://github.com/sudo-nan0-RaySK/Bit-Torrent-Client#readme"
+}
