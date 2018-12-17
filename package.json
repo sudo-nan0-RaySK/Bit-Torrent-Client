@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/sudo-nan0-RaySK/Bit-Torrent-Client/issues"
   },
-  "homepage": "https://github.com/sudo-nan0-RaySK/Bit-Torrent-Client#readme"
+  "homepage": "https://github.com/sudo-nan0-RaySK/Bit-Torrent-Client#readme",
+  "dependencies": {
+    "bencode": "^2.0.0",
+    "bencode-js": "0.0.8",
+    "bencode.js": "^1.0.0",
+    "bencodec": "^1.0.0",
+    "bencoding": "0.0.1",
+    "btparse": "^1.0.2",
+    "parse-torrent-file": "^4.2.2"
+  }
 }
